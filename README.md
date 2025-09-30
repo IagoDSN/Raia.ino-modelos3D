@@ -30,3 +30,5 @@ Tudo que você precisa para **montar e dar vida ao projeto** está aqui! 🎉
 1. Clone este repositório:
    ```bash
    git clone https://github.com/SEU_USUARIO/Raia.ino-modelos3D.git
+
+Este projeto faz conexão com o repositório <a href="https://github.com/IagoDSN/Raia-Python-Fectec">Raia-Python-Fectec</a> através da comunicação serial
