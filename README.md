@@ -20,12 +20,9 @@ Tudo que você precisa para **montar e dar vida ao projeto** está aqui! 🎉
   - `HeadRaia.stl` → Cabeça do modelo Raia  
   - `Screen Support.stl` → Suporte para tela  
 
-- **`Arduino/`** *(ou raiz, caso estejam fora da pasta)*  
+- **`Arquivos_Arduino/`** *(ou raiz, caso estejam fora da pasta)*  
   Contém os códigos `.ino`:  
-  - `led.ino` → Controle de LEDs  
-  - `motor.ino` → Controle dos motores  
-  - `cabecaRotacao.ino` → Movimento/rotação da cabeça  
-
+  - `arduino_raia.ino` → Controle de LED e motores  
 ---
 
 ## 🚀 Como Usar os Modelos 3D
